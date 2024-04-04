@@ -1,3 +1,8 @@
+# 0.2.1
+
+## Changes
+* Update redis/bb8 
+
 # 0.2.0
 
 This release is a big one, and we are considering omniqueue out of early development now.
